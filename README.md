@@ -18,6 +18,6 @@ Este es un proyecto de frontend para una página web que permite a los usuarios 
 
 1. Ingresa tu nombre o apodo en el campo de texto proporcionado.
 2. Escribe tu comentario en el área de texto correspondiente.
-3. Haz clic en el botón "Agregar Comentario".
+3. Haz clic en el botón "Publicar".
 4. El comentario se añadirá automáticamente a la vista principal con tu nombre y la fecha de creación.
 
