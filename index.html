@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap-5.3.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilo.css">
+    <title>Comentarios</title>
+</head>
+<body class="bg-black text-white">
+    <form id="entrada" method="get" action="#">
+        <label class="form-label"  for="nombre" >de:</label>
+        <input placeholder="nombre o apodo" class="form-control mb-2" type="text" id="nombre">
+        <label class=" form-label" for="mens">Mensaje:</label>
+        <textarea placeholder="comentarios" class="form-control mb-2" name="mensaje" id="mens"></textarea>
+        <input type="submit" class="botoncomentar" value="Publicar">
+    </form>
+    <section id="texto" class="mt-4">
+    </section>
+    <script src="js/comentario.js"></script>
+</body>
+</html>
