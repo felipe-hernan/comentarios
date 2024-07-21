@@ -10,9 +10,9 @@ Este es un proyecto de frontend para una página web que permite a los usuarios 
 
 ## Tecnologías Utilizadas
 
-- **HTML5**: Estructura de la página web.
-- **CSS3**: Estilos y diseño responsivo.
-- **JavaScript**: Lógica para agregar comentarios dinámicamente.
+- **HTML5**: 🟧📄 Estructura de la página web.
+- **CSS3**: 🎨💅 Estilos y diseño responsivo.
+- **JavaScript**: ⚙️💻 Lógica para agregar comentarios dinámicamente.
 
 ## Uso
 
