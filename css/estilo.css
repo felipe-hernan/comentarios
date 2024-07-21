@@ -1,11 +1,11 @@
 @font-face {
     font-family: andi;
-    src: url(font/AndikaNewBasic-R.ttf);
+    src: url(../font/AndikaNewBasic-R.ttf);
 }
 body{
     font-family: andi;
 }
-form{
+form,#mensajeerror{
     width: 18rem;
     margin: 0 auto;
 }
